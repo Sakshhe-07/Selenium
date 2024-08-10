@@ -94,10 +94,9 @@ Contributions are what make the open-source community such an amazing place to l
 <!-- Contact -->
 ## Contact
 
-- **Kalpesh Jain**
-- Email: jainkalpesh597@gmail.com
-- LinkedIn: [kalpeshnjain09](https://linkedin.com/in/kalpeshnjain09)
-
+- **Sakshi Pataskar**
+- Email: sakshipataskar0@gmail.com
+- LinkedIn:linkedin.com/in/sakshi-pataskar-39952a282
 <p align="left">
   <a href="https://linkedin.com/in/kalpeshnjain09" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
